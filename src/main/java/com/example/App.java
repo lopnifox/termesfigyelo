@@ -1,3 +1,13 @@
+/*
+* File: App.java
+* Author: Nagy Áron
+* Copyright: 2021, Nagy Áron
+* Group: Szoft IN
+* Date: 2026-05-24
+* Github: https://github.com/lopnifox/
+* Licenc: MIT
+*/
+
 package com.example;
 
 import javafx.application.Application;
